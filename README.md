@@ -1,6 +1,6 @@
 # Affiliate Bookmark
 
-affilate 专属导航，参考自：https://www.affnav.com/
+affiliate 专属导航，参考自：https://www.affnav.com/
 
 Table of Contents
 =================
@@ -20,6 +20,10 @@ Table of Contents
 - [电商平台](#电商平台)
 - [域名注册](#域名注册)
 - [云服务器](#云服务器)
+- [常用工具](#常用工具)
+  - [图片处理](#图片处理)
+  - [虚构信息](#虚构信息)
+
 
 ## 追踪系统
 * [Bemob](https://bemob.com/) - 捷克出品的优质Tracker.跳转速度快，价格是基于服务器的，而不是像其他的服务商那样基于点击数量
@@ -75,6 +79,7 @@ Table of Contents
 
 ## CPA联盟
 
+- [Affpaying](https://www.affpaying.com/) - Reviews of CPA Networks, Affiliate Programs and Ad Networks - Affpaying。
 - [Mobidea](https://www.mobidea.com/) - 侧重于移动流量的欧洲联盟，号称13万+的affiliates, 800+的广告主。
 - [ClickDealer](https://www.clickdealer.com/) - 异军突起的老毛子联盟的代表。全球Offer多，支付准时，美国的offer偏少。
 
@@ -113,5 +118,21 @@ Table of Contents
 
 - [DigitalOcean](https://www.digitalocean.com/) - 低价优质的策略，成为AWS的有利竞争者
 - [Vultr](https://www.vultr.com/) - Choopa旗下品牌，价格厚道。
+
+**[⬆ back to top](#table-of-contents)**
+
+## 常用工具
+
+### 图片处理
+
+- [TinyPNG](https://tinypng.com/) - 在线压缩 PNG/JPG 工具。
+- [imagecompressor](https://imagecompressor.com/) - **在线图像优化器**使用最佳优化和压缩算法来达到最小尺寸的JPEG、GIF和PNG图像，同时保证最佳质量/尺寸比。
+- [CPC & CPM Calculator](https://chrome.google.com/webstore/detail/cpc-cpm-calculator/ecfegnjfemalkfnohnlnecfedlloigdd) -  CPC、CPM、CPA计算器插件，可以帮助快速计算广告CPC、CPM、CPA数据指标，对于投放广告的跨境电商玩家非常简单方便。
+
+**[⬆ back to top](#table-of-contents)**
+
+### 虚构信息
+
+- [好维持](https://www.haoweichi.com/) - 随机生成虚构美国身份，包括姓名，地址，电话，职称，信用卡，身高，体重等信息，获取美国人信息，获取美国人地址。
 
 **[⬆ back to top](#table-of-contents)**
