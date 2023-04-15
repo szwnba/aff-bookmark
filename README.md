@@ -1,138 +1,103 @@
-# Affiliate Bookmark
-
-affiliate 专属导航，参考自：https://www.affnav.com/
-
-Table of Contents
-=================
-
-- [追踪系统](#追踪系统)
-- [SPY服务](#SPY服务)
-- [流量平台](#流量平台)
-  - [PoP流量](#PoP流量)
-  - [原生广告流量](#原生广告流量)
-  - [社交流量](#社交流量)
-  - [搜索流量](#搜索流量)
-- [综合性联盟](#综合性联盟)
-- [CPA联盟](#CPA联盟)
-- [广告论坛](#广告论坛)
-- [SEO工具](#SEO工具)
-- [邮件营销](#邮件营销)
-- [电商平台](#电商平台)
-- [域名注册](#域名注册)
-- [云服务器](#云服务器)
-- [常用工具](#常用工具)
-  - [图片处理](#图片处理)
-  - [虚构信息](#虚构信息)
-
-
-## 追踪系统
-* [Bemob](https://bemob.com/) - 捷克出品的优质Tracker.跳转速度快，价格是基于服务器的，而不是像其他的服务商那样基于点击数量
-* [Binom](https://binom.org/) - 老毛子写的高性能tracker.
-* [Voluum](https://voluum.com/) - 业界成名较早的tracker之一.可以同时追踪付费流量和SEO流量，有35+流量平台模板和15+联盟的模板。
-* [iMobitrax](https://www.imobitrax.com/) - Mobile流行时的首选tracker.
-* [FunnelFlux](https://www.funnelflux.com/) - 价格昂贵但是功能强大, 支持安装在自己的服务器上。
-* [Adsbridge](https://www.adsbridge.com/) - 简单易用, 功能强大, 自带smartlink.14天免费试用。
-
-**[⬆ back to top](#table-of-contents)**
-
-## SPY服务
-
-  * [Adplexity](https://adplexity.com/) - 创立较早，也是技术最为成熟，功能最为强大的Desktop, Mobile 和 Native SPY工具(intelligence tool)，目前分为Mobile SPY, Desktop SPY, Native SPY, Push SPY, eCommerce SPY。
-  * [Anstrex](https://www.anstrex.com/) - Anstrex 擅长于Push ads 的SPY 和 Native ads 的SPY，Push ads的spy 和 Native ads 的SPY 可以分开购买。
-
-**[⬆ back to top](#table-of-contents)**
-
-## 流量平台
-
-### PoP流量
-
-  * [PropellerAds](https://propellerads.com/) - AdvertCN的最大广告主之一，能够提供大量的Pop广告，同时也能提供大量推送广告(Push Ads)以及原生广告(NativeAds)。
-  * [Popads](https://www.popads.net/) - 老牌Pop联盟之一，新手的最爱，还是有大量的affiliate 在这里挖掘金矿。
-
-**[⬆ back to top](#table-of-contents)**
-
-### 原生广告流量
-
-- [Taboola](https://www.taboola.com/) - 体量最大的Native Ads服务商，原生广告界的"Google"， 流量大质量好。
-
-**[⬆ back to top](#table-of-contents)**
-
-### 社交流量
-
-- [Facebook Ads](https://www.facebook.com/business/ads) - 世界上最大的社交网站，很多国人在上面跑黑五和COD. 成就了大批的百万神之千万富豪。
-
-**[⬆ back to top](#table-of-contents)**
-
-### 搜索流量
-
-- [Google Ads](https://ads.google.com/home/) - 全球最有名气的，无人不知无人不晓
-
-**[⬆ back to top](#table-of-contents)**
-
-## 综合性联盟
-
-- [Rakuten Advertising](https://rakutenadvertising.com/) - 前身Linkshare, 世界大型affiliate network之一，包括CPS, CPA, CPL等等，各种名牌广告主，强烈推荐。
-- [CJ Affiliate](https://www.cj.com/) - 大名鼎鼎的CJ，各种大型广告主的最爱，这么多年一直排行前列，如果你想推广一些大牌广告主的话，那么CJ是你最好的选择之一。
-- [ClickBank](https://www.clickbank.com/) - Clickbank 也是历史比较悠久的传统联盟，主要侧重于卖各种电子书产品.很多电子书产品的推广写的真心好，唯一阻挡我购买的原因可能就是囊中羞涩了.
-
-**[⬆ back to top](#table-of-contents)**
-
-## CPA联盟
-
-- [Affpaying](https://www.affpaying.com/) - Reviews of CPA Networks, Affiliate Programs and Ad Networks - Affpaying。
-- [Mobidea](https://www.mobidea.com/) - 侧重于移动流量的欧洲联盟，号称13万+的affiliates, 800+的广告主。
-- [ClickDealer](https://www.clickdealer.com/) - 异军突起的老毛子联盟的代表。全球Offer多，支付准时，美国的offer偏少。
-
-**[⬆ back to top](#table-of-contents)**
-
-## 广告论坛
-
-- [Warriorforum](https://www.warriorforum.com/) - 勇士论坛，全球排名第一的数字营销论坛，盛产WSO教程。
-- [广告中国](最有全球影响力的中文数字营销论坛) - 最有全球影响力的中文数字营销论坛。
-- [STM Forum](https://stmforum.com/) - 号称高端网络营销论坛，世界上第一家需要付费的affiliate marketing论坛。
-- [AffiliateFix](https://www.affiliatefix.com/) - 新手资料较多 ，小白也多。
-
-**[⬆ back to top](#table-of-contents)**
-
-## SEO工具
-
-- [SEMRush](https://www.semrush.com/) - 搜索引擎优化，关键字研究工具。
-
-⬆ back to top
-
-## 邮件营销
-
-## 电商平台
-
-[亚马逊](https://www.amazon.com/) - 电商出海的第一站。
-
-**[⬆ back to top](#table-of-contents)**
-
-## 域名注册
-
-- [Namecheap](https://www.namecheap.com/) - 域名注册并不便宜，网站UI反应很慢，直接访问速度更慢。
-
-**[⬆ back to top](#table-of-contents)**
-
-## 云服务器
-
-- [DigitalOcean](https://www.digitalocean.com/) - 低价优质的策略，成为AWS的有利竞争者
-- [Vultr](https://www.vultr.com/) - Choopa旗下品牌，价格厚道。
-
-**[⬆ back to top](#table-of-contents)**
-
-## 常用工具
-
-### 图片处理
-
-- [TinyPNG](https://tinypng.com/) - 在线压缩 PNG/JPG 工具。
-- [imagecompressor](https://imagecompressor.com/) - **在线图像优化器**使用最佳优化和压缩算法来达到最小尺寸的JPEG、GIF和PNG图像，同时保证最佳质量/尺寸比。
-- [CPC & CPM Calculator](https://chrome.google.com/webstore/detail/cpc-cpm-calculator/ecfegnjfemalkfnohnlnecfedlloigdd) -  CPC、CPM、CPA计算器插件，可以帮助快速计算广告CPC、CPM、CPA数据指标，对于投放广告的跨境电商玩家非常简单方便。
-
-**[⬆ back to top](#table-of-contents)**
-
-### 虚构信息
-
-- [好维持](https://www.haoweichi.com/) - 随机生成虚构美国身份，包括姓名，地址，电话，职称，信用卡，身高，体重等信息，获取美国人信息，获取美国人地址。
-
-**[⬆ back to top](#table-of-contents)**
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+- [SelfAdvertiser , Voluum , PIN Submit 💰💰](https://afflift.com/f/threads/selfadvertiser-voluum-pin-submit-%F0%9F%92%B0%F0%9F%92%B0.10690/)
+- [德语媒体：德国外长在北京没有卑躬屈膝](https://www.dw.com/zh/德语媒体：德国外长在北京没有卑躬屈膝/a-65334584?maca=chi-rss-chi-all-1127-xml-atom)
+- [Need help tracking cost properly with Bemob](https://afflift.com/f/threads/need-help-tracking-cost-properly-with-bemob.10737/)
+- [Boost Volume↑-Trying to Skyrocket🚀profit from XX to XXX with SelfAdvertiser&#39;s Help!](https://afflift.com/f/threads/boost-volume%E2%86%91-trying-to-skyrocket%F0%9F%9A%80profit-from-xx-to-xxx-with-selfadvertisers-help.10652/)
+- [Expose my problem](https://afflift.com/f/threads/expose-my-problem.10735/)
+- [Monetizer Leaderboard](https://afflift.com/f/threads/monetizer-leaderboard.10740/)
+- [30-Day Challenge to get 🎯3000$ Profit⁉ a contest for myself✊](https://afflift.com/f/threads/30-day-challenge-to-get-%F0%9F%8E%AF3000-profit%E2%81%89-a-contest-for-myself%E2%9C%8A.9419/)
+- [马克龙签署争议性养老金改革法案](https://www.dw.com/zh/马克龙签署争议性养老金改革法案/a-65334377?maca=chi-rss-chi-all-1127-xml-atom)
+- [Revcontent RON + VSL Let&#39;s do this 🚀](https://afflift.com/f/threads/revcontent-ron-vsl-lets-do-this-%F0%9F%9A%80.9662/)
+- [中国对美国制裁中国企业表示反对，秦刚重申不向俄罗斯提供武器](https://www.voachinese.com/a/china-protests-us-sanctioning-of-firms-dealing-with-russia-04152023/7051819.html)
+- [MaxConv Tracker - a scalable, affordable and effective tracking software](https://afflift.com/f/threads/maxconv-tracker-a-scalable-affordable-and-effective-tracking-software.9941/)
+- [Sharing some Dating Landers](https://afflift.com/f/threads/sharing-some-dating-landers.10208/)
+- [媒体：中国拒绝重新安排布林肯访华行程](https://www.dw.com/zh/媒体：中国拒绝重新安排布林肯访华行程/a-65334015?maca=chi-rss-chi-all-1127-xml-atom)
+- [全面禁止TikTok　美国蒙大拿州先行一步](https://www.dw.com/zh/全面禁止tiktok　美国蒙大拿州先行一步/a-65333928?maca=chi-rss-chi-all-1127-xml-atom)
+- [巴西总统卢拉访华：中巴协议指向科技、金融国际新体系](https://www.bbc.com/zhongwen/simp/world-65286148?at_medium=RSS&at_campaign=KARANGA)
+- [My First Follow Along - My 2nd Ever Affiliate Offer💥](https://afflift.com/f/threads/my-first-follow-along-my-2nd-ever-affiliate-offer%F0%9F%92%A5.10695/)
+- [Does anyone know what happened to AirPush?](https://afflift.com/f/threads/does-anyone-know-what-happened-to-airpush.10736/)
+- [中国对台实施贸易壁垒调查，一场完美设计好的局？](https://www.voachinese.com/a/is-china-s-investigation-of-trade-barriers-to-taiwan-a-perfectly-designed-trap-20230415/7051733.html)
+- [泽连斯基：俄罗斯是“一个邪恶的国家”](https://www.dw.com/zh/泽连斯基：俄罗斯是-一个邪恶的国家/a-65333463?maca=chi-rss-chi-all-1127-xml-atom)
+- [王毅会晤德国外长 期望“支持中国和平统一”](https://www.dw.com/zh/王毅会晤德国外长-期望-支持中国和平统一/a-65333113?maca=chi-rss-chi-all-1127-xml-atom)
+- [美国国务卿会晤越南总理](https://www.voachinese.com/a/us-secretary-of-state-meets-with-vietnamese-prime-minister-20230415/7051721.html)
+- [巴西总统卢拉：美国需要停止鼓励战争](https://www.dw.com/zh/巴西总统卢拉：美国需要停止鼓励战争/a-65332993?maca=chi-rss-chi-all-1127-xml-atom)
+- [My FOMO contest FA](https://afflift.com/f/threads/my-fomo-contest-fa.10704/)
+- [布林肯访问河内 美越提升关系对抗中国影响力](https://www.dw.com/zh/布林肯访问河内-美越提升关系对抗中国影响力/a-65332633?maca=chi-rss-chi-all-1127-xml-atom)
+- [Auto insurance, Home Improvement Offers.](https://afflift.com/f/threads/auto-insurance-home-improvement-offers.9021/)
+- [A.I. FAIL thread &lpar;post a pic&rpar;](https://afflift.com/f/threads/a-i-fail-thread-post-a-pic.10739/)
+- [日本首相演讲遇爆炸袭击 已安全脱身](https://www.dw.com/zh/日本首相演讲遇爆炸袭击-已安全脱身/a-65332540?maca=chi-rss-chi-all-1127-xml-atom)
+- [New contest and new challenge with Selfadvertiser&#39;s Pop](https://afflift.com/f/threads/new-contest-and-new-challenge-with-selfadvertisers-pop.10676/)
+- [中国投资者深耕拉美 谁受益谁忧心？](https://www.dw.com/zh/中国投资者深耕拉美-谁受益谁忧心？/a-65271286?maca=chi-rss-chi-all-1127-xml-atom)
+- [New Contest 🚀 Still Me 😅 Finding the way to Green land with SelfAdvertiser](https://afflift.com/f/threads/new-contest-%F0%9F%9A%80-still-me-%F0%9F%98%85-finding-the-way-to-green-land-with-selfadvertiser.10663/)
+- [聊聊 ICU 病房限制家属探视的为什么与该不该](https://sspai.com/post/79319)
+- [Search Monetization and Search Arbitrage - Here is what you need to know](https://afflift.com/f/threads/search-monetization-and-search-arbitrage-here-is-what-you-need-to-know.8185/)
+- [Traffic Arbitrage 🚀](https://afflift.com/f/threads/traffic-arbitrage-%F0%9F%9A%80.10641/)
+- [SelfAdvertiser contest entry](https://afflift.com/f/threads/selfadvertiser-contest-entry.10687/)
+- [解放军环台军演、美国机密文件泄露、卢拉访华及本周更多重要故事](https://www.bbc.com/zhongwen/simp/65272580?at_medium=RSS&at_campaign=KARANGA)
+- [Yepads](https://afflift.com/f/threads/yepads.8483/)
+- [帮助中国人逃避审查的知名博主被北京判处重刑](https://www.voachinese.com/a/an-iconic-blogger-helped-others-evade-censorship-then-beijing-caught-him-20230414/7051617.html)
+- [普京签署电子征兵法案](https://www.voachinese.com/a/7051620.html)
+- [政府自己告自己：新泽西州指控本州破坏了它必须保护的土地](https://www.voachinese.com/a/nj-charges-itself-with-damaging-land-it-was-bound-to-protect-/7051342.html)
+- [揭谎频道：美军在叙偷油？北京与俄罗斯和伊朗合奏的又一谎言](https://www.voachinese.com/a/fact-check-china-falsely-portrays-us-looting-syrian-oil/7051199.html)
+- [中国退出联合国野生动物疫情控制调查](https://www.voachinese.com/a/china-out-of-un-s-wildlife-survey-for-pandemic-controls-20230414/7051202.html)
+- [乌克兰将中国科技公司小米列入“国际战争资助者”名单，小米表示“强烈反对”](https://www.voachinese.com/a/ukraine-s-anti-corruption-agency-designates-chinese-tech-brand-xiaomi-as-international-sponsor-of-war-20230414/7051263.html)
+- [前美国安顾问：美中是否因台湾爆发冲突“就看习有多大的虚荣心”](https://www.voachinese.com/a/us-china-taiwan-lyl-20230414/7051188.html)
+- [乌军从巴赫穆特一些地段撤离](https://www.voachinese.com/a/dead-17-wounded-in-russian-airstrike-in-sloviansk-20230414/7051261.html)
+- [“八方来朝”？习近平的“新秩序”到底有多大的吸引力？](https://www.voachinese.com/a/china-new-world-order-20230414/7051089.html)
+- [勤练国造UAR-10狙击枪技  乌克兰狙击手静待反攻时机](https://www.voachinese.com/a/ukrainian-sniper-says-counter-offensive-delayed-by-weather-20230415/7051094.html)
+- [印尼发生7.0级强烈地震](https://www.voachinese.com/a/powerful-7-0-magnitude-quake-strikes-indonesia-20230414/7051102.html)
+- [重大军情泄密案嫌疑人在联邦法庭过堂，当局公布诉状](https://www.voachinese.com/a/suspect-in-massive-leak-of-classified-documents-arraigned-20230414/7051106.html)
+- [中德外长谈台海两岸问题，贝尔伯克：冲突必须和平解决；秦刚：台独与和平绝不能共存](https://www.voachinese.com/a/china-vows-not-to-sell-arms-to-any-party-in-ukraine-war-20230414/7050330.html)
+- [两家中国公司和五名个人因涉嫌走私芬太尼受到美国制裁](https://www.voachinese.com/a/u-s-sanctions-suppliers-of-precursor-chemicals-for-fentanyl-production-20230414/7050705.html)
+- [马克龙谈台湾引反弹，欧盟官员连续在台湾问题上表达强硬立场](https://www.voachinese.com/a/europe-presses-tough-taiwan-stance-after-backlash-against-macron-comments-20230414/7050411.html)
+- [香港留学生因在日言论回港后被捕 日教授关注“国安法”影响日本言论自由](https://www.voachinese.com/a/concerns-raised-over-hong-kong-national-security-laws-impact-on-japans-speech-freedom-20230414/7050755.html)
+- [路透调查：中国一季度经济增速可达4% 但经济数据矛盾引起质疑](https://www.voachinese.com/a/china-s-q1-gdp-growth-seen-rebounding-to-4-0-2023-20230414/7050323.html)
+- [社民党保守派推对华文件 批评外长贝尔博克](https://www.dw.com/zh/社民党保守派推对华文件-批评外长贝尔博克/a-65322354?maca=chi-rss-chi-all-1127-xml-atom)
+- [习近平会卢拉：谈经济合作、乌克兰战争](https://www.dw.com/zh/习近平会卢拉：谈经济合作、乌克兰战争/a-65322355?maca=chi-rss-chi-all-1127-xml-atom)
+- [德语媒体：舍本逐末](https://www.dw.com/zh/德语媒体：舍本逐末/a-65321836?maca=chi-rss-chi-all-1127-xml-atom)
+- [美国德州一奶牛场爆炸 18000头牛死亡](https://www.dw.com/zh/美国德州一奶牛场爆炸-18000头牛死亡/a-65320729?maca=chi-rss-chi-all-1127-xml-atom)
+- [台湾2024总统大选：潜在的竞争者都有谁？](https://www.bbc.com/zhongwen/simp/chinese-news-65277246?at_medium=RSS&at_campaign=KARANGA)
+- [化妆费近14万欧元 德外长公款支出引争议](https://www.dw.com/zh/化妆费近14万欧元-德外长公款支出引争议/a-65318417?maca=chi-rss-chi-all-1127-xml-atom)
+- [中国厂商小米被乌克兰列入战争资助者名单](https://www.dw.com/zh/中国厂商小米被乌克兰列入战争资助者名单/a-65318453?maca=chi-rss-chi-all-1127-xml-atom)
+- [ChatGPT：风起云涌的生成式AI和紧随而至的监管 从中国网信办新规看新赛道走向](https://www.bbc.com/zhongwen/simp/chinese-news-65274804?at_medium=RSS&at_campaign=KARANGA)
+- [美国泄密门:中国计划秘密向俄供应军火](https://www.dw.com/zh/美国泄密门-中国计划秘密向俄供应军火/a-65316799?maca=chi-rss-chi-all-1127-xml-atom)
+- [彭帅事件一年余 女子网球协会宣布恢复中国赛事](https://www.dw.com/zh/彭帅事件一年余-女子网球协会宣布恢复中国赛事/a-65316854?maca=chi-rss-chi-all-1127-xml-atom)
+- [本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/79311)
+- [貝爾博克談“降低風險”  秦剛說“最優的選擇”](https://www.dw.com/zh/貝爾博克談-降低風險-秦剛說-最優的選擇/a-65314039?maca=chi-rss-chi-all-1127-xml-atom)
+- [真诚的文字就是最好的广告：聊聊那些值得关注的技术公司博客](https://sspai.com/prime/story/recommendable-techco-blogs)
+- [读历史看当下: 德国在核电问题上为何如此纠结？](https://www.dw.com/zh/读历史看当下-德国在核电问题上为何如此纠结？/a-62742413?maca=chi-rss-chi-all-1127-xml-atom)
+- [Mac 上的第三方微博客户端，Maipo 更新 4.1 版本](https://sspai.com/post/79299)
+- [摆脱线缆，解放束缚，Keychron 少数派联名定制版 Q1 Pro 正式上架](https://sspai.com/post/79289)
+- [美国军事机密外泄事件中，一名空军国民警卫队员涉嫌被捕](https://www.bbc.com/zhongwen/simp/world-65272573?at_medium=RSS&at_campaign=KARANGA)
+- [台湾民安演习登场 台中首度纳入“战时灾害抢救”](https://www.bbc.com/zhongwen/simp/chinese-news-65273165?at_medium=RSS&at_campaign=KARANGA)
+- [「嗡嗡嗡」的季节又要来了，选驱蚊产品请先认准成分](https://sspai.com/post/60304)
+- [更多国家会转向亲中俄吗？](https://cn.nytimes.com/opinion/20230414/biden-foreign-policy-china-russia/?utm_source=RSS)
+- [这些实用的官方插件，入手三星之后别忘了试试](https://sspai.com/post/79285)
+- [泄露文件揭示美国为何称中国曾考虑军援俄罗斯](https://cn.nytimes.com/world/20230414/new-leaked-documents-offer-a-clue-about-us-warnings-that-china-was-considering-giving-russia-military-aid/?utm_source=RSS)
+- [中国八年间以间谍罪名拘捕17名日本公民](https://cn.nytimes.com/asia-pacific/20230414/china-japan-spying-espionage/?utm_source=RSS)
+- [​​​​FBI逮捕美國情報「洩密門」嫌犯](https://www.dw.com/zh/​​​​fbi逮捕美國情報「洩密門」嫌犯/a-65309261?maca=chi-rss-chi-all-1127-xml-atom)
+- [Claude，Anthropic强大AI开放免费体验！国内无需挂代理！](https://51.ruyo.net/18341.html)
+- [派早报：知乎发布大模型「知海图 AI」，Google 宣布关闭 Currents 等](https://sspai.com/post/79301)
+- [“绝密”还是秘密吗？泄密事件暴露美国情报安全漏洞](https://cn.nytimes.com/usa/20230414/documents-leak-security-clearance/?utm_source=RSS)
+- [美国机密文件泄露事件嫌疑人被捕，为空军国民警卫队成员](https://cn.nytimes.com/usa/20230414/documents-leak-leaker-identity/?utm_source=RSS)
+- [德语媒体：德国外长去北京“纠偏”](https://www.dw.com/zh/德语媒体：德国外长去北京-纠偏/a-65305991?maca=chi-rss-chi-all-1127-xml-atom)
+- [贝拉·巴托克：双钢琴和打击乐奏鸣曲](https://www.dw.com/zh/贝拉·巴托克：双钢琴和打击乐奏鸣曲/a-65306172?maca=chi-rss-chi-all-1127-xml-atom)
+- [中国一季度与俄进出口大增，与欧美日贸易下降](https://www.dw.com/zh/中国一季度与俄进出口大增，与欧美日贸易下降/a-65305566?maca=chi-rss-chi-all-1127-xml-atom)
+- [“台湾黑熊揍打维尼”：意外爆红的非官方空军臂章](https://www.bbc.com/zhongwen/simp/chinese-news-65265089?at_medium=RSS&at_campaign=KARANGA)
+- [大麻合法化要点草案出台 批评：未成年人保护不足](https://www.dw.com/zh/大麻合法化要点草案出台-批评：未成年人保护不足/a-65300921?maca=chi-rss-chi-all-1127-xml-atom)
+- [具透 | Android 14 首个测试版上线，这些是值得你关注的新功能](https://sspai.com/post/79290)
+- [新玩意 142｜少数派的编辑们最近买了啥？](https://sspai.com/post/79291)
+- [事实核查：如何识别人工智能生成的图片？](https://www.dw.com/zh/事实核查：如何识别人工智能生成的图片？/a-65293514?maca=chi-rss-chi-all-1127-xml-atom)
+- [马斯克：推特总裁接受BBC专访的六个要点--仇恨言论，封杀TikTok，BBC标签争议等](https://www.bbc.com/zhongwen/simp/world-65259764?at_medium=RSS&at_campaign=KARANGA)
+- [马克龙为涉台争议言论辩护，称希望避免局势升级](https://cn.nytimes.com/world/20230413/france-macron-taiwan-china/?utm_source=RSS)
+- [当美国寻求与中国“脱钩”，德国企业扩大在华投资](https://cn.nytimes.com/business/20230413/germany-china-trade/?utm_source=RSS)
+- [巴西总统卢拉访华：经贸合作、乌克兰战争、一带一路是重点议题](https://www.bbc.com/zhongwen/simp/world-65248165?at_medium=RSS&at_campaign=KARANGA)
+- [如何避免一场中美战争](https://cn.nytimes.com/opinion/20230413/china-usa-war-avoid/?utm_source=RSS)
+- [为什么说中国将主导电池产业的未来](https://cn.nytimes.com/business/20230413/china-sodium-batteries/?utm_source=RSS)
+- [在争议声中，旅美大熊猫丫丫准备返回中国](https://cn.nytimes.com/china/20230413/panda-china-memphis-zoo-ya-ya/?utm_source=RSS)
+- [汉堡港福地码头被列入关键基础设施 中远入股还有戏吗？](https://www.dw.com/zh/汉堡港福地码头被列入关键基础设施-中远入股还有戏吗？/a-65293775?maca=chi-rss-chi-all-1127-xml-atom)
+- [德语媒体：欧洲利益遭到损害](https://www.dw.com/zh/德语媒体：欧洲利益遭到损害/a-65293746?maca=chi-rss-chi-all-1127-xml-atom)
+- [IMF预测今年全球增长2.8%， 英德呈负增长](https://www.dw.com/zh/imf预测今年全球增长2-8-，-英德呈负增长/a-65289504?maca=chi-rss-chi-all-1127-xml-atom)
+- [印度人口即将世界第一，但不知道究竟有多少人](https://www.dw.com/zh/印度人口即将世界第一，但不知道究竟有多少人/a-64723000?maca=chi-rss-chi-all-1127-xml-atom)
+<!-- BLOG-POST-LIST:END -->
