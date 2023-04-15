@@ -11,9 +11,22 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v2
-      - name: Pull in dev.to posts
+      - name: Pull in afflift posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://afflift.com/f/forums/-/index.rss,https://51.ruyo.net/feed,https://sspai.com/feed"
-          max_post_count: 100
+          feed_list: "https://afflift.com/f/forums/-/index.rss"
+          max_post_count: 20
+          comment_tag_name: "afflift"
+      - name: Pull in 无忧分享 posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://51.ruyo.net/feed"
+          max_post_count: 5
+          comment_tag_name: "ruyo"
+      - name: Pull in sspai posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://sspai.com/feed"
+          max_post_count: 10
+          comment_tag_name: "sspai"
 
