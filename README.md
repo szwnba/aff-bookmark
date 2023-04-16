@@ -44,3 +44,7 @@
 -  14 [派早报：知乎发布大模型「知海图 AI」，Google 宣布关闭 Currents 等](https://sspai.com/post/79301)
 -  13 [具透 | Android 14 首个测试版上线，这些是值得你关注的新功能](https://sspai.com/post/79290)
 -  13 [新玩意 142｜少数派的编辑们最近买了啥？](https://sspai.com/post/79291)<!-- sspai:END -->
+
+### advertcn
+<!-- advertcn:START -->
+<!-- advertcn:END -->

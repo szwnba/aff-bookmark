@@ -35,4 +35,12 @@ jobs:
           comment_tag_name: "sspai"
           date_format: "UTC: dd"
           template: "$newline- $date [$title]($url)"
+      - name: Pull in advertcn posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://www.advertcn.com/forum.php?mod=guide&view=hot&rss=1"
+          max_post_count: 20
+          comment_tag_name: "advertcn"
+          date_format: "UTC: dd"
+          template: "$newline- $date [$title]($url)"
 
