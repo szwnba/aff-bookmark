@@ -3,12 +3,12 @@
 
 ### afflift
 <!-- afflift:START -->
+- [April PropellerAds Promo Codes 2023](https://afflift.com/f/threads/april-propellerads-promo-codes-2023.10657/)
 - [Need help tracking cost properly with Bemob](https://afflift.com/f/threads/need-help-tracking-cost-properly-with-bemob.10737/)
 - [SelfAdvertiser Contest - $5,000 in Prizes - 2 Big Winners!](https://afflift.com/f/threads/selfadvertiser-contest-5-000-in-prizes-2-big-winners.10651/)
 - [#SelfAdvertiser: Push It, Push It Some More, Alalalalalong...](https://afflift.com/f/threads/selfadvertiser-push-it-push-it-some-more-alalalalalong.10743/)
 - [$2k/month - Facebook Page Monetization](https://afflift.com/f/threads/2k-month-facebook-page-monetization.10637/)
 - [Scaling big on SelfAdvertiser! 🤑](https://afflift.com/f/threads/scaling-big-on-selfadvertiser-%F0%9F%A4%91.10711/)
-- [April PropellerAds Promo Codes 2023](https://afflift.com/f/threads/april-propellerads-promo-codes-2023.10657/)
 - [First test of Redirects: SelfAdvertiser + Golden Goose/Zeydoo](https://afflift.com/f/threads/first-test-of-redirects-selfadvertiser-golden-goose-zeydoo.10742/)
 - [COD on push really a good choice for me?](https://afflift.com/f/threads/cod-on-push-really-a-good-choice-for-me.10741/)
 - [Let&#39;s Flip Pop Traffic &lpar;Goal Of $25 A Day!&rpar;](https://afflift.com/f/threads/lets-flip-pop-traffic-goal-of-25-a-day.10597/)
