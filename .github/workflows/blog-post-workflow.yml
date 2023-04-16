@@ -17,16 +17,22 @@ jobs:
           feed_list: "https://afflift.com/f/forums/-/index.rss"
           max_post_count: 20
           comment_tag_name: "afflift"
+          date_format: "UTC: dd"
+          template: "$newline- $date [$title]($url)"
       - name: Pull in 无忧分享 posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://51.ruyo.net/feed"
           max_post_count: 5
           comment_tag_name: "ruyo"
+          date_format: "UTC: dd"
+          template: "$newline- $date [$title]($url)"
       - name: Pull in sspai posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://sspai.com/feed"
           max_post_count: 10
           comment_tag_name: "sspai"
+          date_format: "UTC: dd"
+          template: "$newline- $date [$title]($url)"
 
