@@ -3,6 +3,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  17 [Monetizer question &lpar;bottraffic&rpar;](https://afflift.com/f/threads/monetizer-question-bottraffic.10746/)
 -  17 [Expose my problem](https://afflift.com/f/threads/expose-my-problem.10735/)
 -  17 [Hello from Bangladesh](https://afflift.com/f/threads/hello-from-bangladesh.10686/)
 -  17 [Unlocking Profit Potential with COD Offers 🚀💰](https://afflift.com/f/threads/unlocking-profit-potential-with-cod-offers-%F0%9F%9A%80%F0%9F%92%B0.10673/)
@@ -10,7 +11,6 @@
 -  17 [COD on push really a good choice for me?](https://afflift.com/f/threads/cod-on-push-really-a-good-choice-for-me.10741/)
 -  17 [Hello from Missouri](https://afflift.com/f/threads/hello-from-missouri.10745/)
 -  17 [Optimization question](https://afflift.com/f/threads/optimization-question.10747/)
--  17 [Monetizer question &lpar;bottraffic&rpar;](https://afflift.com/f/threads/monetizer-question-bottraffic.10746/)
 -  17 [Boost Volume↑-Trying to Skyrocket🚀profit from XX to XXX with SelfAdvertiser&#39;s Help!](https://afflift.com/f/threads/boost-volume%E2%86%91-trying-to-skyrocket%F0%9F%9A%80profit-from-xx-to-xxx-with-selfadvertisers-help.10652/)
 -  16 [Testing SelfAdvertiser&#39;s Traffic on mVas 🚀](https://afflift.com/f/threads/testing-selfadvertisers-traffic-on-mvas-%F0%9F%9A%80.10738/)
 -  16 [#SelfAdvertiser: Push It, Push It Some More, Alalalalalong...](https://afflift.com/f/threads/selfadvertiser-push-it-push-it-some-more-alalalalalong.10743/)
