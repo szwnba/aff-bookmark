@@ -34,6 +34,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  17 [派早报：OpenAI 确认目前没有训练 GPT-5，推特允许付费用户发送 10000 字符长推文](https://sspai.com/post/79326)
 -  16 [利用飞书多维表格搭建一套「个人财务管理系统」](https://sspai.com/post/79298)
 -  15 [聊聊 ICU 病房限制家属探视的为什么与该不该](https://sspai.com/post/79319)
 -  14 [本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/79311)
@@ -42,7 +43,6 @@
 -  14 [摆脱线缆，解放束缚，Keychron 少数派联名定制版 Q1 Pro 正式上架](https://sspai.com/post/79289)
 -  14 [「嗡嗡嗡」的季节又要来了，选驱蚊产品请先认准成分](https://sspai.com/post/60304)
 -  14 [这些实用的官方插件，入手三星之后别忘了试试](https://sspai.com/post/79285)
--  14 [派早报：知乎发布大模型「知海图 AI」，Google 宣布关闭 Currents 等](https://sspai.com/post/79301)
 -  13 [具透 | Android 14 首个测试版上线，这些是值得你关注的新功能](https://sspai.com/post/79290)<!-- sspai:END -->
 
 ### advertcn
