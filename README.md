@@ -3,10 +3,11 @@
 
 ### afflift
 <!-- afflift:START -->
+-  17 [What is the Minimum Payment of Monetizer?](https://afflift.com/f/threads/what-is-the-minimum-payment-of-monetizer.10748/)
+-  17 [Unlocking Profit Potential with COD Offers 🚀💰](https://afflift.com/f/threads/unlocking-profit-potential-with-cod-offers-%F0%9F%9A%80%F0%9F%92%B0.10673/)
 -  17 [Monetizer question &lpar;bottraffic&rpar;](https://afflift.com/f/threads/monetizer-question-bottraffic.10746/)
 -  17 [Expose my problem](https://afflift.com/f/threads/expose-my-problem.10735/)
 -  17 [Hello from Bangladesh](https://afflift.com/f/threads/hello-from-bangladesh.10686/)
--  17 [Unlocking Profit Potential with COD Offers 🚀💰](https://afflift.com/f/threads/unlocking-profit-potential-with-cod-offers-%F0%9F%9A%80%F0%9F%92%B0.10673/)
 -  17 [Super Simple Landing Pages - Tutorial](https://afflift.com/f/threads/super-simple-landing-pages-tutorial.10696/)
 -  17 [COD on push really a good choice for me?](https://afflift.com/f/threads/cod-on-push-really-a-good-choice-for-me.10741/)
 -  17 [Hello from Missouri](https://afflift.com/f/threads/hello-from-missouri.10745/)
@@ -21,8 +22,7 @@
 -  16 [New contest and new challenge with Selfadvertiser&#39;s Pop](https://afflift.com/f/threads/new-contest-and-new-challenge-with-selfadvertisers-pop.10676/)
 -  16 [April PropellerAds Promo Codes 2023](https://afflift.com/f/threads/april-propellerads-promo-codes-2023.10657/)
 -  16 [Need help tracking cost properly with Bemob](https://afflift.com/f/threads/need-help-tracking-cost-properly-with-bemob.10737/)
--  16 [SelfAdvertiser Contest - $5,000 in Prizes - 2 Big Winners!](https://afflift.com/f/threads/selfadvertiser-contest-5-000-in-prizes-2-big-winners.10651/)
--  16 [$2k/month - Facebook Page Monetization](https://afflift.com/f/threads/2k-month-facebook-page-monetization.10637/)<!-- afflift:END -->
+-  16 [SelfAdvertiser Contest - $5,000 in Prizes - 2 Big Winners!](https://afflift.com/f/threads/selfadvertiser-contest-5-000-in-prizes-2-big-winners.10651/)<!-- afflift:END -->
 
 ### 无忧分享
 <!-- ruyo:START -->
