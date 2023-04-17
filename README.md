@@ -4,6 +4,8 @@
 ### afflift
 <!-- afflift:START -->
 -  17 [What is the Minimum Payment of Monetizer?](https://afflift.com/f/threads/what-is-the-minimum-payment-of-monetizer.10748/)
+-  17 [I did a video interview with RichAds and answered some questions you might find interesting...](https://afflift.com/f/threads/i-did-a-video-interview-with-richads-and-answered-some-questions-you-might-find-interesting.10727/)
+-  17 [Facebook ads with CPA :😈: Be ready ...](https://afflift.com/f/threads/facebook-ads-with-cpa-%F0%9F%98%88-be-ready.9665/)
 -  17 [Unlocking Profit Potential with COD Offers 🚀💰](https://afflift.com/f/threads/unlocking-profit-potential-with-cod-offers-%F0%9F%9A%80%F0%9F%92%B0.10673/)
 -  17 [Monetizer question &lpar;bottraffic&rpar;](https://afflift.com/f/threads/monetizer-question-bottraffic.10746/)
 -  17 [Expose my problem](https://afflift.com/f/threads/expose-my-problem.10735/)
@@ -20,9 +22,7 @@
 -  16 [My First Follow Along - My 2nd Ever Affiliate Offer💥](https://afflift.com/f/threads/my-first-follow-along-my-2nd-ever-affiliate-offer%F0%9F%92%A5.10695/)
 -  16 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
 -  16 [New contest and new challenge with Selfadvertiser&#39;s Pop](https://afflift.com/f/threads/new-contest-and-new-challenge-with-selfadvertisers-pop.10676/)
--  16 [April PropellerAds Promo Codes 2023](https://afflift.com/f/threads/april-propellerads-promo-codes-2023.10657/)
--  16 [Need help tracking cost properly with Bemob](https://afflift.com/f/threads/need-help-tracking-cost-properly-with-bemob.10737/)
--  16 [SelfAdvertiser Contest - $5,000 in Prizes - 2 Big Winners!](https://afflift.com/f/threads/selfadvertiser-contest-5-000-in-prizes-2-big-winners.10651/)<!-- afflift:END -->
+-  16 [April PropellerAds Promo Codes 2023](https://afflift.com/f/threads/april-propellerads-promo-codes-2023.10657/)<!-- afflift:END -->
 
 ### 无忧分享
 <!-- ruyo:START -->
