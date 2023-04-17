@@ -34,6 +34,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  17 [值得关注的操作系统动态：Ubuntu 23.04、Windows 11、Android 14 等](https://sspai.com/prime/story/zouzhe-230417)
 -  17 [派评 | 近期值得关注的 App](https://sspai.com/post/79348)
 -  17 [规律作息、健康生活：一些提高睡眠质量的经验与思考](https://sspai.com/post/79344)
 -  17 [家用咖啡手册 05 | 如何选择一台合适、好用的磨豆机？](https://sspai.com/post/79279)
@@ -42,8 +43,7 @@
 -  15 [聊聊 ICU 病房限制家属探视的为什么与该不该](https://sspai.com/post/79319)
 -  14 [本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/79311)
 -  14 [真诚的文字就是最好的广告：聊聊那些值得关注的技术公司博客](https://sspai.com/prime/story/recommendable-techco-blogs)
--  14 [Mac 上的第三方微博客户端，Maipo 更新 4.1 版本](https://sspai.com/post/79299)
--  14 [摆脱线缆，解放束缚，Keychron 少数派联名定制版 Q1 Pro 正式上架](https://sspai.com/post/79289)<!-- sspai:END -->
+-  14 [Mac 上的第三方微博客户端，Maipo 更新 4.1 版本](https://sspai.com/post/79299)<!-- sspai:END -->
 
 ### advertcn
 <!-- advertcn:START -->
