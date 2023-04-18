@@ -34,6 +34,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  18 [敬畏自然：记我的西藏探索之旅](https://sspai.com/post/79325)
 -  18 [播客 | 后厂女工小王：辞掉产品经理，开启自由职业，期待好事发生](https://sspai.com/post/79345)
 -  18 [微信把文件都改成了只读，我找 ChatGPT 问到了药方](https://sspai.com/post/79351)
 -  18 [派早报：2023 上海车展今日开展，华为发布 nova 11 等新品等](https://sspai.com/post/79355)
@@ -42,8 +43,7 @@
 -  17 [规律作息、健康生活：一些提高睡眠质量的经验与思考](https://sspai.com/post/79344)
 -  17 [家用咖啡手册 05 | 如何选择一台合适、好用的磨豆机？](https://sspai.com/post/79279)
 -  17 [派早报：OpenAI 确认目前没有训练 GPT-5，推特允许付费用户发送 10000 字符长推文](https://sspai.com/post/79326)
--  16 [利用飞书多维表格搭建一套「个人财务管理系统」](https://sspai.com/post/79298)
--  15 [聊聊 ICU 病房限制家属探视的为什么与该不该](https://sspai.com/post/79319)<!-- sspai:END -->
+-  16 [利用飞书多维表格搭建一套「个人财务管理系统」](https://sspai.com/post/79298)<!-- sspai:END -->
 
 ### advertcn
 <!-- advertcn:START -->
