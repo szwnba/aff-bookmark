@@ -3,6 +3,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  18 [if i have a balance on propllerads 40$ and have account cpa build how to use it to generate revenue around 3$ per day ?](https://afflift.com/f/threads/if-i-have-a-balance-on-propllerads-40-and-have-account-cpa-build-how-to-use-it-to-generate-revenue-around-3-per-day.10769/)
+-  18 [Step 10 - Analyzing Your PopAds Campaigns using BeMob](https://afflift.com/f/threads/step-10-analyzing-your-popads-campaigns-using-bemob.2947/)
 -  18 [Unlocking Profit Potential with COD Offers 🚀💰](https://afflift.com/f/threads/unlocking-profit-potential-with-cod-offers-%F0%9F%9A%80%F0%9F%92%B0.10673/)
 -  18 [Block Crawlers From Accessing Your Landing Page](https://afflift.com/f/threads/block-crawlers-from-accessing-your-landing-page.10761/)
 -  18 [SelfAdvertiser + Golden Goose Pop Campaign [Contest]](https://afflift.com/f/threads/selfadvertiser-golden-goose-pop-campaign-contest.10767/)
@@ -15,14 +17,12 @@
 -  18 [SelfAdvertiser contest entry](https://afflift.com/f/threads/selfadvertiser-contest-entry.10687/)
 -  18 [I want to setup finance survey in propellers ads and admaven](https://afflift.com/f/threads/i-want-to-setup-finance-survey-in-propellers-ads-and-admaven.10766/)
 -  18 [The Art of Writing AI Prompts to Make Better Advertising Creatives and Landing Pages 🚀💰🤖](https://afflift.com/f/threads/the-art-of-writing-ai-prompts-to-make-better-advertising-creatives-and-landing-pages-%F0%9F%9A%80%F0%9F%92%B0%F0%9F%A4%96.10728/)
--  18 [Step 10 - Analyzing Your PopAds Campaigns using BeMob](https://afflift.com/f/threads/step-10-analyzing-your-popads-campaigns-using-bemob.2947/)
 -  18 [I need a landing page that convert](https://afflift.com/f/threads/i-need-a-landing-page-that-convert.10754/)
 -  18 [Hi From Belgium Bruxelles.](https://afflift.com/f/threads/hi-from-belgium-bruxelles.10765/)
 -  18 [Intercourse Follow Along.](https://afflift.com/f/threads/intercourse-follow-along.10764/)
 -  18 [April PropellerAds Promo Codes 2023](https://afflift.com/f/threads/april-propellerads-promo-codes-2023.10657/)
 -  18 [Smart Surveys from ZeyDoo](https://afflift.com/f/threads/smart-surveys-from-zeydoo.10505/)
--  18 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)
--  18 [New Contest 🚀 Still Me 😅 Finding the way to Green land with SelfAdvertiser](https://afflift.com/f/threads/new-contest-%F0%9F%9A%80-still-me-%F0%9F%98%85-finding-the-way-to-green-land-with-selfadvertiser.10663/)<!-- afflift:END -->
+-  18 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)<!-- afflift:END -->
 
 ### 无忧分享
 <!-- ruyo:START -->
