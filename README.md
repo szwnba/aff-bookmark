@@ -36,12 +36,7 @@
 -  18 [从「会背」单词到「会用」单词，这些工具与方法帮得上忙](https://sspai.com/post/79241)
 -  18 [敬畏自然：记我的西藏探索之旅](https://sspai.com/post/79325)
 -  18 [播客 | 后厂女工小王：辞掉产品经理，开启自由职业，期待好事发生](https://sspai.com/post/79345)
--  18 [微信把文件都改成了只读，我找 ChatGPT 问到了药方](https://sspai.com/post/79351)
--  18 [派早报：2023 上海车展今日开展，华为发布 nova 11 等新品等](https://sspai.com/post/79355)
--  17 [值得关注的操作系统动态：Ubuntu 23.04、Windows 11、Android 14 等](https://sspai.com/prime/story/zouzhe-230417)
--  17 [派评 | 近期值得关注的 App](https://sspai.com/post/79348)
--  17 [规律作息、健康生活：一些提高睡眠质量的经验与思考](https://sspai.com/post/79344)
--  17 [家用咖啡手册 05 | 如何选择一台合适、好用的磨豆机？](https://sspai.com/post/79279)<!-- sspai:END -->
+-  18 [微信把文件都改成了只读，我找 ChatGPT 问到了药方](https://sspai.com/post/79351)<!-- sspai:END -->
 
 ### advertcn
 <!-- advertcn:START -->
