@@ -3,16 +3,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  18 [What is the Minimum Payment of Monetizer?](https://afflift.com/f/threads/what-is-the-minimum-payment-of-monetizer.10748/)
--  18 [OWNR WALLET Affiliate Program](https://afflift.com/f/threads/ownr-wallet-affiliate-program.9733/)
+-  18 [Step 10 - Campaign Optimization](https://afflift.com/f/threads/step-10-campaign-optimization.7481/)
+-  18 [Hi](https://afflift.com/f/threads/hi.10752/)
 -  18 [MEGA Thread of Useful Landing Page Scripts](https://afflift.com/f/threads/mega-thread-of-useful-landing-page-scripts.2595/)
+-  18 [What is the Minimum Payment of Monetizer?](https://afflift.com/f/threads/what-is-the-minimum-payment-of-monetizer.10748/)
+-  18 [How I Killed Payment Fees Forever…and How You Can, Too!](https://afflift.com/f/threads/how-i-killed-payment-fees-forever%E2%80%A6and-how-you-can-too.10749/)
+-  18 [OWNR WALLET Affiliate Program](https://afflift.com/f/threads/ownr-wallet-affiliate-program.9733/)
 -  18 [where can i buy pva facebook accounts](https://afflift.com/f/threads/where-can-i-buy-pva-facebook-accounts.10688/)
 -  18 [Hi from Costa Rica! I need some advice :&rpar;](https://afflift.com/f/threads/hi-from-costa-rica-i-need-some-advice.10755/)
 -  18 [PUSH SUBSCRIBERS](https://afflift.com/f/threads/push-subscribers.10716/)
 -  18 [What is the best push notification service provider?](https://afflift.com/f/threads/what-is-the-best-push-notification-service-provider.10722/)
 -  18 [I need a landing page that convert](https://afflift.com/f/threads/i-need-a-landing-page-that-convert.10754/)
 -  17 [The Performance Marketing Network - Weekly Payments - $250 min - 600+ Nutra, Ecom, Lead Offers](https://afflift.com/f/threads/the-performance-marketing-network-weekly-payments-250-min-600-nutra-ecom-lead-offers.10534/)
--  17 [How I Killed Payment Fees Forever…and How You Can, Too!](https://afflift.com/f/threads/how-i-killed-payment-fees-forever%E2%80%A6and-how-you-can-too.10749/)
 -  17 [Anti Virus + Selfadvertiser 🚀 To the Moon 🌕 and beyond](https://afflift.com/f/threads/anti-virus-selfadvertiser-%F0%9F%9A%80-to-the-moon-%F0%9F%8C%95-and-beyond.10682/)
 -  17 [Let&#39;s Flip Pop Traffic &lpar;Goal Of $25 A Day!&rpar;](https://afflift.com/f/threads/lets-flip-pop-traffic-goal-of-25-a-day.10597/)
 -  17 [SelfAdvertiser , Voluum , PIN Submit 💰💰](https://afflift.com/f/threads/selfadvertiser-voluum-pin-submit-%F0%9F%92%B0%F0%9F%92%B0.10690/)
@@ -20,9 +22,7 @@
 -  17 [🔥 PropellerAds + Zeydoo](https://afflift.com/f/threads/%F0%9F%94%A5-propellerads-zeydoo.10724/)
 -  17 [Single-Target Campaigns on Zeropark](https://afflift.com/f/threads/single-target-campaigns-on-zeropark.10720/)
 -  17 [My First Follow Along - My 2nd Ever Affiliate Offer💥](https://afflift.com/f/threads/my-first-follow-along-my-2nd-ever-affiliate-offer%F0%9F%92%A5.10695/)
--  17 [Optimization question](https://afflift.com/f/threads/optimization-question.10747/)
--  17 [Never ending journey to success](https://afflift.com/f/threads/never-ending-journey-to-success.10694/)
--  17 [New contest and new challenge with Selfadvertiser&#39;s Pop](https://afflift.com/f/threads/new-contest-and-new-challenge-with-selfadvertisers-pop.10676/)<!-- afflift:END -->
+-  17 [Optimization question](https://afflift.com/f/threads/optimization-question.10747/)<!-- afflift:END -->
 
 ### 无忧分享
 <!-- ruyo:START -->
