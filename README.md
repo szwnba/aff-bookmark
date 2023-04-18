@@ -3,6 +3,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  18 [Hi from Costa Rica! I need some advice :&rpar;](https://afflift.com/f/threads/hi-from-costa-rica-i-need-some-advice.10755/)
+-  18 [What is the best push notification service provider?](https://afflift.com/f/threads/what-is-the-best-push-notification-service-provider.10722/)
+-  18 [I need a landing page that convert](https://afflift.com/f/threads/i-need-a-landing-page-that-convert.10754/)
 -  17 [What is the Minimum Payment of Monetizer?](https://afflift.com/f/threads/what-is-the-minimum-payment-of-monetizer.10748/)
 -  17 [The Performance Marketing Network - Weekly Payments - $250 min - 600+ Nutra, Ecom, Lead Offers](https://afflift.com/f/threads/the-performance-marketing-network-weekly-payments-250-min-600-nutra-ecom-lead-offers.10534/)
 -  17 [How I Killed Payment Fees Forever…and How You Can, Too!](https://afflift.com/f/threads/how-i-killed-payment-fees-forever%E2%80%A6and-how-you-can-too.10749/)
@@ -19,10 +22,7 @@
 -  17 [New contest and new challenge with Selfadvertiser&#39;s Pop](https://afflift.com/f/threads/new-contest-and-new-challenge-with-selfadvertisers-pop.10676/)
 -  17 [Step 10 - Campaign Optimization](https://afflift.com/f/threads/step-10-campaign-optimization.7481/)
 -  17 [The Performance Marketing Network](https://afflift.com/f/threads/the-performance-marketing-network.10753/)
--  17 [All New CPVLab VPS Setup Guide with new build scripts](https://afflift.com/f/threads/all-new-cpvlab-vps-setup-guide-with-new-build-scripts.10699/)
--  17 [Sharing some Dating Landers](https://afflift.com/f/threads/sharing-some-dating-landers.10208/)
--  17 [AdCombo | Biweekly payouts | Exclusive Cash-on-Delivery offers](https://afflift.com/f/threads/adcombo-biweekly-payouts-exclusive-cash-on-delivery-offers.3509/)
--  17 [Hi](https://afflift.com/f/threads/hi.10752/)<!-- afflift:END -->
+-  17 [All New CPVLab VPS Setup Guide with new build scripts](https://afflift.com/f/threads/all-new-cpvlab-vps-setup-guide-with-new-build-scripts.10699/)<!-- afflift:END -->
 
 ### 无忧分享
 <!-- ruyo:START -->
