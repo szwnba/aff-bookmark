@@ -3,6 +3,11 @@
 
 ### afflift
 <!-- afflift:START -->
+-  18 [I want to setup finance survey in propellers ads and admaven](https://afflift.com/f/threads/i-want-to-setup-finance-survey-in-propellers-ads-and-admaven.10766/)
+-  18 [The Art of Writing AI Prompts to Make Better Advertising Creatives and Landing Pages 🚀💰🤖](https://afflift.com/f/threads/the-art-of-writing-ai-prompts-to-make-better-advertising-creatives-and-landing-pages-%F0%9F%9A%80%F0%9F%92%B0%F0%9F%A4%96.10728/)
+-  18 [Step 10 - Analyzing Your PopAds Campaigns using BeMob](https://afflift.com/f/threads/step-10-analyzing-your-popads-campaigns-using-bemob.2947/)
+-  18 [SelfAdvertiser + Golden Goose Pop Campaign [Contest]](https://afflift.com/f/threads/selfadvertiser-golden-goose-pop-campaign-contest.10767/)
+-  18 [I need a landing page that convert](https://afflift.com/f/threads/i-need-a-landing-page-that-convert.10754/)
 -  18 [Hi From Belgium Bruxelles.](https://afflift.com/f/threads/hi-from-belgium-bruxelles.10765/)
 -  18 [Intercourse Follow Along.](https://afflift.com/f/threads/intercourse-follow-along.10764/)
 -  18 [Block Crawlers From Accessing Your Landing Page](https://afflift.com/f/threads/block-crawlers-from-accessing-your-landing-page.10761/)
@@ -14,15 +19,10 @@
 -  18 [Step 10 - Campaign Optimization](https://afflift.com/f/threads/step-10-campaign-optimization.7481/)
 -  18 [My FOMO contest FA](https://afflift.com/f/threads/my-fomo-contest-fa.10704/)
 -  18 [Anti Virus + Selfadvertiser 🚀 To the Moon 🌕 and beyond](https://afflift.com/f/threads/anti-virus-selfadvertiser-%F0%9F%9A%80-to-the-moon-%F0%9F%8C%95-and-beyond.10682/)
--  18 [I need a landing page that convert](https://afflift.com/f/threads/i-need-a-landing-page-that-convert.10754/)
 -  18 [The Performance Marketing Network - Weekly Payments - $250 min - 600+ Nutra, Ecom, Lead Offers](https://afflift.com/f/threads/the-performance-marketing-network-weekly-payments-250-min-600-nutra-ecom-lead-offers.10534/)
 -  18 [Hi](https://afflift.com/f/threads/hi.10752/)
 -  18 [MEGA Thread of Useful Landing Page Scripts](https://afflift.com/f/threads/mega-thread-of-useful-landing-page-scripts.2595/)
--  18 [Hi from Costa Rica! I need some advice :&rpar;](https://afflift.com/f/threads/hi-from-costa-rica-i-need-some-advice.10755/)
--  18 [Adtrafico - the best choice for media buyers. Sweepstakes, Dating, Mobile Billing and more](https://afflift.com/f/threads/adtrafico-the-best-choice-for-media-buyers-sweepstakes-dating-mobile-billing-and-more.4312/)
--  18 [Heading to the Conversion Conf in Warsaw April 19 - 20 2023?](https://afflift.com/f/threads/heading-to-the-conversion-conf-in-warsaw-april-19-20-2023.10759/)
--  18 [Hi, I&#39;m the editor-in-chief of a new affiliate media - AffJournal](https://afflift.com/f/threads/hi-im-the-editor-in-chief-of-a-new-affiliate-media-affjournal.10758/)
--  18 [How I Killed Payment Fees Forever…and How You Can, Too!](https://afflift.com/f/threads/how-i-killed-payment-fees-forever%E2%80%A6and-how-you-can-too.10749/)<!-- afflift:END -->
+-  18 [Hi from Costa Rica! I need some advice :&rpar;](https://afflift.com/f/threads/hi-from-costa-rica-i-need-some-advice.10755/)<!-- afflift:END -->
 
 ### 无忧分享
 <!-- ruyo:START -->
