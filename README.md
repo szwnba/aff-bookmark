@@ -3,11 +3,12 @@
 
 ### afflift
 <!-- afflift:START -->
+-  18 [MEGA Thread of Useful Landing Page Scripts](https://afflift.com/f/threads/mega-thread-of-useful-landing-page-scripts.2595/)
+-  18 [50% Profit Share OLE777 Affiliate Program](https://afflift.com/f/threads/50-profit-share-ole777-affiliate-program.10756/)
+-  18 [How I Killed Payment Fees Forever…and How You Can, Too!](https://afflift.com/f/threads/how-i-killed-payment-fees-forever%E2%80%A6and-how-you-can-too.10749/)
 -  18 [Step 10 - Campaign Optimization](https://afflift.com/f/threads/step-10-campaign-optimization.7481/)
 -  18 [Hi](https://afflift.com/f/threads/hi.10752/)
--  18 [MEGA Thread of Useful Landing Page Scripts](https://afflift.com/f/threads/mega-thread-of-useful-landing-page-scripts.2595/)
 -  18 [What is the Minimum Payment of Monetizer?](https://afflift.com/f/threads/what-is-the-minimum-payment-of-monetizer.10748/)
--  18 [How I Killed Payment Fees Forever…and How You Can, Too!](https://afflift.com/f/threads/how-i-killed-payment-fees-forever%E2%80%A6and-how-you-can-too.10749/)
 -  18 [OWNR WALLET Affiliate Program](https://afflift.com/f/threads/ownr-wallet-affiliate-program.9733/)
 -  18 [where can i buy pva facebook accounts](https://afflift.com/f/threads/where-can-i-buy-pva-facebook-accounts.10688/)
 -  18 [Hi from Costa Rica! I need some advice :&rpar;](https://afflift.com/f/threads/hi-from-costa-rica-i-need-some-advice.10755/)
@@ -21,8 +22,7 @@
 -  17 [Hello from Missouri](https://afflift.com/f/threads/hello-from-missouri.10745/)
 -  17 [🔥 PropellerAds + Zeydoo](https://afflift.com/f/threads/%F0%9F%94%A5-propellerads-zeydoo.10724/)
 -  17 [Single-Target Campaigns on Zeropark](https://afflift.com/f/threads/single-target-campaigns-on-zeropark.10720/)
--  17 [My First Follow Along - My 2nd Ever Affiliate Offer💥](https://afflift.com/f/threads/my-first-follow-along-my-2nd-ever-affiliate-offer%F0%9F%92%A5.10695/)
--  17 [Optimization question](https://afflift.com/f/threads/optimization-question.10747/)<!-- afflift:END -->
+-  17 [My First Follow Along - My 2nd Ever Affiliate Offer💥](https://afflift.com/f/threads/my-first-follow-along-my-2nd-ever-affiliate-offer%F0%9F%92%A5.10695/)<!-- afflift:END -->
 
 ### 无忧分享
 <!-- ruyo:START -->
