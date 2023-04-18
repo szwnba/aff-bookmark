@@ -3,10 +3,12 @@
 
 ### afflift
 <!-- afflift:START -->
+-  18 [My First Follow Along - My 2nd Ever Affiliate Offer💥](https://afflift.com/f/threads/my-first-follow-along-my-2nd-ever-affiliate-offer%F0%9F%92%A5.10695/)
+-  18 [How I Killed Payment Fees Forever…and How You Can, Too!](https://afflift.com/f/threads/how-i-killed-payment-fees-forever%E2%80%A6and-how-you-can-too.10749/)
+-  18 [Top 10+ Affiliate Programs For Mother’s Day 2023](https://afflift.com/f/threads/top-10-affiliate-programs-for-mother%E2%80%99s-day-2023.10757/)
 -  18 [Unlocking Profit Potential with COD Offers 🚀💰](https://afflift.com/f/threads/unlocking-profit-potential-with-cod-offers-%F0%9F%9A%80%F0%9F%92%B0.10673/)
 -  18 [MEGA Thread of Useful Landing Page Scripts](https://afflift.com/f/threads/mega-thread-of-useful-landing-page-scripts.2595/)
 -  18 [50% Profit Share OLE777 Affiliate Program](https://afflift.com/f/threads/50-profit-share-ole777-affiliate-program.10756/)
--  18 [How I Killed Payment Fees Forever…and How You Can, Too!](https://afflift.com/f/threads/how-i-killed-payment-fees-forever%E2%80%A6and-how-you-can-too.10749/)
 -  18 [Step 10 - Campaign Optimization](https://afflift.com/f/threads/step-10-campaign-optimization.7481/)
 -  18 [Hi](https://afflift.com/f/threads/hi.10752/)
 -  18 [What is the Minimum Payment of Monetizer?](https://afflift.com/f/threads/what-is-the-minimum-payment-of-monetizer.10748/)
@@ -20,9 +22,7 @@
 -  17 [Anti Virus + Selfadvertiser 🚀 To the Moon 🌕 and beyond](https://afflift.com/f/threads/anti-virus-selfadvertiser-%F0%9F%9A%80-to-the-moon-%F0%9F%8C%95-and-beyond.10682/)
 -  17 [Let&#39;s Flip Pop Traffic &lpar;Goal Of $25 A Day!&rpar;](https://afflift.com/f/threads/lets-flip-pop-traffic-goal-of-25-a-day.10597/)
 -  17 [SelfAdvertiser , Voluum , PIN Submit 💰💰](https://afflift.com/f/threads/selfadvertiser-voluum-pin-submit-%F0%9F%92%B0%F0%9F%92%B0.10690/)
--  17 [Hello from Missouri](https://afflift.com/f/threads/hello-from-missouri.10745/)
--  17 [🔥 PropellerAds + Zeydoo](https://afflift.com/f/threads/%F0%9F%94%A5-propellerads-zeydoo.10724/)
--  17 [Single-Target Campaigns on Zeropark](https://afflift.com/f/threads/single-target-campaigns-on-zeropark.10720/)<!-- afflift:END -->
+-  17 [Hello from Missouri](https://afflift.com/f/threads/hello-from-missouri.10745/)<!-- afflift:END -->
 
 ### 无忧分享
 <!-- ruyo:START -->
