@@ -3,6 +3,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  18 [MEGA Thread of Useful Landing Page Scripts](https://afflift.com/f/threads/mega-thread-of-useful-landing-page-scripts.2595/)
+-  18 [where can i buy pva facebook accounts](https://afflift.com/f/threads/where-can-i-buy-pva-facebook-accounts.10688/)
 -  18 [Hi from Costa Rica! I need some advice :&rpar;](https://afflift.com/f/threads/hi-from-costa-rica-i-need-some-advice.10755/)
 -  18 [PUSH SUBSCRIBERS](https://afflift.com/f/threads/push-subscribers.10716/)
 -  18 [What is the best push notification service provider?](https://afflift.com/f/threads/what-is-the-best-push-notification-service-provider.10722/)
@@ -20,9 +22,7 @@
 -  17 [Optimization question](https://afflift.com/f/threads/optimization-question.10747/)
 -  17 [Never ending journey to success](https://afflift.com/f/threads/never-ending-journey-to-success.10694/)
 -  17 [New contest and new challenge with Selfadvertiser&#39;s Pop](https://afflift.com/f/threads/new-contest-and-new-challenge-with-selfadvertisers-pop.10676/)
--  17 [Step 10 - Campaign Optimization](https://afflift.com/f/threads/step-10-campaign-optimization.7481/)
--  17 [The Performance Marketing Network](https://afflift.com/f/threads/the-performance-marketing-network.10753/)
--  17 [All New CPVLab VPS Setup Guide with new build scripts](https://afflift.com/f/threads/all-new-cpvlab-vps-setup-guide-with-new-build-scripts.10699/)<!-- afflift:END -->
+-  17 [Step 10 - Campaign Optimization](https://afflift.com/f/threads/step-10-campaign-optimization.7481/)<!-- afflift:END -->
 
 ### 无忧分享
 <!-- ruyo:START -->
