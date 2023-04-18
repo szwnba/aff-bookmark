@@ -23,24 +23,25 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://51.ruyo.net/feed"
-          max_post_count: 5
+          max_post_count: 3
           comment_tag_name: "ruyo"
-          date_format: "UTC: dd"
-          template: "$newline- $date [$title]($url)"
-      - name: Pull in sspai posts
-        uses: gautamkrishnar/blog-post-workflow@v1
-        with:
-          feed_list: "https://sspai.com/feed"
-          max_post_count: 10
-          comment_tag_name: "sspai"
           date_format: "UTC: dd"
           template: "$newline- $date [$title]($url)"
       - name: Pull in advertcn posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://www.advertcn.com/forum.php?mod=guide&view=hot&rss=1"
-          max_post_count: 20
+          max_post_count: 10
           comment_tag_name: "advertcn"
           date_format: "UTC: dd"
           template: "$newline- $date [$title]($url)"
+      - name: Pull in sspai posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://sspai.com/feed"
+          max_post_count: 5
+          comment_tag_name: "sspai"
+          date_format: "UTC: dd"
+          template: "$newline- $date [$title]($url)"
+
 
