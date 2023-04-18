@@ -3,6 +3,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  18 [How to “Piggyback” 🐷 Your Postback URL](https://afflift.com/f/threads/how-to-%E2%80%9Cpiggyback%E2%80%9D-%F0%9F%90%B7-your-postback-url.9986/)
 -  18 [My First Follow Along - My 2nd Ever Affiliate Offer💥](https://afflift.com/f/threads/my-first-follow-along-my-2nd-ever-affiliate-offer%F0%9F%92%A5.10695/)
 -  18 [How I Killed Payment Fees Forever…and How You Can, Too!](https://afflift.com/f/threads/how-i-killed-payment-fees-forever%E2%80%A6and-how-you-can-too.10749/)
 -  18 [Top 10+ Affiliate Programs For Mother’s Day 2023](https://afflift.com/f/threads/top-10-affiliate-programs-for-mother%E2%80%99s-day-2023.10757/)
@@ -21,8 +22,7 @@
 -  17 [The Performance Marketing Network - Weekly Payments - $250 min - 600+ Nutra, Ecom, Lead Offers](https://afflift.com/f/threads/the-performance-marketing-network-weekly-payments-250-min-600-nutra-ecom-lead-offers.10534/)
 -  17 [Anti Virus + Selfadvertiser 🚀 To the Moon 🌕 and beyond](https://afflift.com/f/threads/anti-virus-selfadvertiser-%F0%9F%9A%80-to-the-moon-%F0%9F%8C%95-and-beyond.10682/)
 -  17 [Let&#39;s Flip Pop Traffic &lpar;Goal Of $25 A Day!&rpar;](https://afflift.com/f/threads/lets-flip-pop-traffic-goal-of-25-a-day.10597/)
--  17 [SelfAdvertiser , Voluum , PIN Submit 💰💰](https://afflift.com/f/threads/selfadvertiser-voluum-pin-submit-%F0%9F%92%B0%F0%9F%92%B0.10690/)
--  17 [Hello from Missouri](https://afflift.com/f/threads/hello-from-missouri.10745/)<!-- afflift:END -->
+-  17 [SelfAdvertiser , Voluum , PIN Submit 💰💰](https://afflift.com/f/threads/selfadvertiser-voluum-pin-submit-%F0%9F%92%B0%F0%9F%92%B0.10690/)<!-- afflift:END -->
 
 ### 无忧分享
 <!-- ruyo:START -->
