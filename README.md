@@ -3,6 +3,11 @@
 
 ### afflift
 <!-- afflift:START -->
+-  18 [Unlocking Profit Potential with COD Offers 🚀💰](https://afflift.com/f/threads/unlocking-profit-potential-with-cod-offers-%F0%9F%9A%80%F0%9F%92%B0.10673/)
+-  18 [Resources for Staying informed in the Industry](https://afflift.com/f/threads/resources-for-staying-informed-in-the-industry.10768/)
+-  18 [Traffic Arbitrage 🚀](https://afflift.com/f/threads/traffic-arbitrage-%F0%9F%9A%80.10641/)
+-  18 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
+-  18 [RichAds: Premium push, pops, in-page, calendar, direct click traffic!](https://afflift.com/f/threads/richads-premium-push-pops-in-page-calendar-direct-click-traffic.991/)
 -  18 [Block Crawlers From Accessing Your Landing Page](https://afflift.com/f/threads/block-crawlers-from-accessing-your-landing-page.10761/)
 -  18 [Best spytool to find FB ads on gambling?](https://afflift.com/f/threads/best-spytool-to-find-fb-ads-on-gambling.10762/)
 -  18 [SelfAdvertiser contest entry](https://afflift.com/f/threads/selfadvertiser-contest-entry.10687/)
@@ -17,12 +22,7 @@
 -  18 [Smart Surveys from ZeyDoo](https://afflift.com/f/threads/smart-surveys-from-zeydoo.10505/)
 -  18 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)
 -  18 [New Contest 🚀 Still Me 😅 Finding the way to Green land with SelfAdvertiser](https://afflift.com/f/threads/new-contest-%F0%9F%9A%80-still-me-%F0%9F%98%85-finding-the-way-to-green-land-with-selfadvertiser.10663/)
--  18 [Step 10 - Campaign Optimization](https://afflift.com/f/threads/step-10-campaign-optimization.7481/)
--  18 [My FOMO contest FA](https://afflift.com/f/threads/my-fomo-contest-fa.10704/)
--  18 [Anti Virus + Selfadvertiser 🚀 To the Moon 🌕 and beyond](https://afflift.com/f/threads/anti-virus-selfadvertiser-%F0%9F%9A%80-to-the-moon-%F0%9F%8C%95-and-beyond.10682/)
--  18 [The Performance Marketing Network - Weekly Payments - $250 min - 600+ Nutra, Ecom, Lead Offers](https://afflift.com/f/threads/the-performance-marketing-network-weekly-payments-250-min-600-nutra-ecom-lead-offers.10534/)
--  18 [Hi](https://afflift.com/f/threads/hi.10752/)
--  18 [MEGA Thread of Useful Landing Page Scripts](https://afflift.com/f/threads/mega-thread-of-useful-landing-page-scripts.2595/)<!-- afflift:END -->
+-  18 [Step 10 - Campaign Optimization](https://afflift.com/f/threads/step-10-campaign-optimization.7481/)<!-- afflift:END -->
 
 ### 无忧分享
 <!-- ruyo:START -->
