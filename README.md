@@ -3,8 +3,11 @@
 
 ### afflift
 <!-- afflift:START -->
--  18 [Block Crawlers From Accessing Your Landing Page](https://afflift.com/f/threads/block-crawlers-from-accessing-your-landing-page.10761/)
+-  18 [Smart Surveys from ZeyDoo](https://afflift.com/f/threads/smart-surveys-from-zeydoo.10505/)
+-  18 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)
 -  18 [New Contest 🚀 Still Me 😅 Finding the way to Green land with SelfAdvertiser](https://afflift.com/f/threads/new-contest-%F0%9F%9A%80-still-me-%F0%9F%98%85-finding-the-way-to-green-land-with-selfadvertiser.10663/)
+-  18 [Step 10 - Campaign Optimization](https://afflift.com/f/threads/step-10-campaign-optimization.7481/)
+-  18 [Block Crawlers From Accessing Your Landing Page](https://afflift.com/f/threads/block-crawlers-from-accessing-your-landing-page.10761/)
 -  18 [My FOMO contest FA](https://afflift.com/f/threads/my-fomo-contest-fa.10704/)
 -  18 [Anti Virus + Selfadvertiser 🚀 To the Moon 🌕 and beyond](https://afflift.com/f/threads/anti-virus-selfadvertiser-%F0%9F%9A%80-to-the-moon-%F0%9F%8C%95-and-beyond.10682/)
 -  18 [I need a landing page that convert](https://afflift.com/f/threads/i-need-a-landing-page-that-convert.10754/)
@@ -19,10 +22,7 @@
 -  18 [My First Follow Along - My 2nd Ever Affiliate Offer💥](https://afflift.com/f/threads/my-first-follow-along-my-2nd-ever-affiliate-offer%F0%9F%92%A5.10695/)
 -  18 [Royal Partners | iGaming affiliate program | In-House offers | CPA/RevShare/Hybrid](https://afflift.com/f/threads/royal-partners-igaming-affiliate-program-in-house-offers-cpa-revshare-hybrid.10011/)
 -  18 [Skro.eu | Affiliate campaign tracker with Free plan - 250k free events per month](https://afflift.com/f/threads/skro-eu-affiliate-campaign-tracker-with-free-plan-250k-free-events-per-month.7260/)
--  18 [Buy Likes, Followers, Views and more! ⭐ Instagram, TikTok, Twitter, Telegram ✅ FREE Test Balance](https://afflift.com/f/threads/buy-likes-followers-views-and-more-%E2%AD%90-instagram-tiktok-twitter-telegram-%E2%9C%85-free-test-balance.10638/)
--  18 [How to “Piggyback” 🐷 Your Postback URL](https://afflift.com/f/threads/how-to-%E2%80%9Cpiggyback%E2%80%9D-%F0%9F%90%B7-your-postback-url.9986/)
--  18 [Top 10+ Affiliate Programs For Mother’s Day 2023](https://afflift.com/f/threads/top-10-affiliate-programs-for-mother%E2%80%99s-day-2023.10757/)
--  18 [Unlocking Profit Potential with COD Offers 🚀💰](https://afflift.com/f/threads/unlocking-profit-potential-with-cod-offers-%F0%9F%9A%80%F0%9F%92%B0.10673/)<!-- afflift:END -->
+-  18 [Buy Likes, Followers, Views and more! ⭐ Instagram, TikTok, Twitter, Telegram ✅ FREE Test Balance](https://afflift.com/f/threads/buy-likes-followers-views-and-more-%E2%AD%90-instagram-tiktok-twitter-telegram-%E2%9C%85-free-test-balance.10638/)<!-- afflift:END -->
 
 ### 无忧分享
 <!-- ruyo:START -->
