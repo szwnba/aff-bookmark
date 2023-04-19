@@ -3,9 +3,11 @@
 
 ### afflift
 <!-- afflift:START -->
+-  19 [Adsterra Direct Link Traffic Arbitrage Making 100% ROI 🚀](https://afflift.com/f/threads/adsterra-direct-link-traffic-arbitrage-making-100-roi-%F0%9F%9A%80.10770/)
+-  19 [April PropellerAds Promo Codes 2023](https://afflift.com/f/threads/april-propellerads-promo-codes-2023.10657/)
+-  19 [PUSHGROUND - Push Ads Traffic that Drives Results.](https://afflift.com/f/threads/pushground-push-ads-traffic-that-drives-results.10571/)
 -  19 [Vimmy - Ad Network. Push Traffic That Converts.](https://afflift.com/f/threads/vimmy-ad-network-push-traffic-that-converts.5871/)
 -  19 [COD on push really a good choice for me?](https://afflift.com/f/threads/cod-on-push-really-a-good-choice-for-me.10741/)
--  19 [Adsterra Direct Link Traffic Arbitrage Making 100% ROI 🚀](https://afflift.com/f/threads/adsterra-direct-link-traffic-arbitrage-making-100-roi-%F0%9F%9A%80.10770/)
 -  19 [Step 10 - Analyzing Your PopAds Campaigns using BeMob](https://afflift.com/f/threads/step-10-analyzing-your-popads-campaigns-using-bemob.2947/)
 -  19 [if i have a balance on propllerads 40$ and have account cpa build how to use it to generate revenue around 3$ per day ?](https://afflift.com/f/threads/if-i-have-a-balance-on-propllerads-40-and-have-account-cpa-build-how-to-use-it-to-generate-revenue-around-3-per-day.10769/)
 -  19 [Unlocking Profit Potential with COD Offers 🚀💰](https://afflift.com/f/threads/unlocking-profit-potential-with-cod-offers-%F0%9F%9A%80%F0%9F%92%B0.10673/)
@@ -20,9 +22,7 @@
 -  18 [RichAds: Premium push, pops, in-page, calendar, direct click traffic!](https://afflift.com/f/threads/richads-premium-push-pops-in-page-calendar-direct-click-traffic.991/)
 -  18 [Best spytool to find FB ads on gambling?](https://afflift.com/f/threads/best-spytool-to-find-fb-ads-on-gambling.10762/)
 -  18 [SelfAdvertiser contest entry](https://afflift.com/f/threads/selfadvertiser-contest-entry.10687/)
--  18 [I want to setup finance survey in propellers ads and admaven](https://afflift.com/f/threads/i-want-to-setup-finance-survey-in-propellers-ads-and-admaven.10766/)
--  18 [The Art of Writing AI Prompts to Make Better Advertising Creatives and Landing Pages 🚀💰🤖](https://afflift.com/f/threads/the-art-of-writing-ai-prompts-to-make-better-advertising-creatives-and-landing-pages-%F0%9F%9A%80%F0%9F%92%B0%F0%9F%A4%96.10728/)
--  18 [I need a landing page that convert](https://afflift.com/f/threads/i-need-a-landing-page-that-convert.10754/)<!-- afflift:END -->
+-  18 [I want to setup finance survey in propellers ads and admaven](https://afflift.com/f/threads/i-want-to-setup-finance-survey-in-propellers-ads-and-admaven.10766/)<!-- afflift:END -->
 
 ### 无忧分享
 <!-- ruyo:START -->
