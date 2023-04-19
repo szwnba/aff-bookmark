@@ -40,6 +40,8 @@
 
 ### advertcn
 <!-- advertcn:START -->
+-  19 [各位大神，谷歌Ads展示量低，转化更是没有，怎么解决?](https://www.advertcn.com/forum.php?mod=viewthread&tid=109993)
+-  19 [Affiliate是微商、直销？](https://www.advertcn.com/forum.php?mod=viewthread&tid=109991)
 -  18 [meida buy 、广告联盟广告投放，适合什么性格的人](https://www.advertcn.com/forum.php?mod=viewthread&tid=109980)
 -  18 [如何寻找墙外中文站点？](https://www.advertcn.com/forum.php?mod=viewthread&tid=109975)
 -  18 [这两天chatgpt是不是有什么问题？](https://www.advertcn.com/forum.php?mod=viewthread&tid=109971)
@@ -47,6 +49,4 @@
 -  16 [哪里能够抢注域名，国内的太坑了。](https://www.advertcn.com/forum.php?mod=viewthread&tid=109956)
 -  16 [现在国内买矿机有推荐的地方吗？](https://www.advertcn.com/forum.php?mod=viewthread&tid=109950)
 -  16 [小白求教一个广告联盟的问题，希望各位大佬能帮忙解答.....](https://www.advertcn.com/forum.php?mod=viewthread&tid=109949)
--  15 [有没有人可以投这个品](https://www.advertcn.com/forum.php?mod=viewthread&tid=109942)
--  15 [国外cc平台求推荐啊](https://www.advertcn.com/forum.php?mod=viewthread&tid=109940)
--  14 [新人报道！欧美建站服务器求推荐一下](https://www.advertcn.com/forum.php?mod=viewthread&tid=109933)<!-- advertcn:END -->
+-  15 [有没有人可以投这个品](https://www.advertcn.com/forum.php?mod=viewthread&tid=109942)<!-- advertcn:END -->
