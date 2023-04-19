@@ -7,6 +7,7 @@
 
 ### voa
 <!-- voa:START -->
+-  19 [美国和英国对真主党融资实施制裁](https://www.voachinese.com/a/us-uk-enact-sanctions-for-hezbollah-financing-20230419/7056816.html)
 -  19 [北京长峰医院大火29人亡 院长等12人被拘捕 当局继续严控公众舆论](https://www.voachinese.com/a/beijing-releases-hospital-fire-info-after-initial-coverup-attempt-20230419/7056802.html)
 -  19 [韩总统尹锡悦暗示可能军援乌克兰 称台湾、朝鲜问题属全球性问题](https://www.voachinese.com/a/south-korea-yoon-signals-shift-on-supplying-weapons-to-ukraine-20230419/7056786.html)
 -  19 [拜登总统夫妇公布纳税申报表 去年收入近58万美元](https://www.voachinese.com/a/the-widens-release-tax-returns-20230419/7056747.html)
@@ -15,8 +16,7 @@
 -  19 [五角大楼官员示警中国对台威胁，众院美国与中共战略竞争委员会将举行台海冲突兵推](https://www.voachinese.com/a/us-house-china-committee-taiwan-tabletop-exercise-20230418/7056628.html)
 -  19 [在华盛顿对美大学生演说，台湾民众党主席柯文哲：维持现状是不得已的选择，两岸应重启对话](https://www.voachinese.com/a/chairman-ko-of-taiwan-peoples-party-speaks-to-students-in-washington-on-cross-strait-policy-positions-20230418/7056587.html)
 -  19 [福克斯新闻以7.875亿美元达成选举舞弊诽谤案和解](https://www.voachinese.com/a/fox-settles-dominion-defamation-lawsuit-for-787-5-million-avoiding-trial-20230418/7056612.html)
--  19 [联合国对美国监视联合国官员的报道表示关切](https://www.voachinese.com/a/un-expresses-concern-to-us-over-spying-reports-20230418/7056604.html)
--  19 [李尚福访俄，力挺普京之余，垂涎技术转让](https://www.voachinese.com/a/what-china-defense-minister-russia-trip-tells-us-20230418/7056191.html)<!-- voa:END -->
+-  19 [联合国对美国监视联合国官员的报道表示关切](https://www.voachinese.com/a/un-expresses-concern-to-us-over-spying-reports-20230418/7056604.html)<!-- voa:END -->
 
 ### dw
 <!-- dw:START -->
