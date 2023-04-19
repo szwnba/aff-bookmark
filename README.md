@@ -32,11 +32,11 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  19 [派早报：小米 13 Ultra 发布、蔚来推出 ES6 纯电中型 SUV 等](https://sspai.com/post/79369)
 -  18 [Discogs——见证二手唱片的繁荣、失落与复兴](https://sspai.com/prime/story/music-database-discogs)
 -  18 [从「会背」单词到「会用」单词，这些工具与方法帮得上忙](https://sspai.com/post/79241)
 -  18 [敬畏自然：记我的西藏探索之旅](https://sspai.com/post/79325)
--  18 [播客 | 后厂女工小王：辞掉产品经理，开启自由职业，期待好事发生](https://sspai.com/post/79345)
--  18 [微信把文件都改成了只读，我找 ChatGPT 问到了药方](https://sspai.com/post/79351)<!-- sspai:END -->
+-  18 [播客 | 后厂女工小王：辞掉产品经理，开启自由职业，期待好事发生](https://sspai.com/post/79345)<!-- sspai:END -->
 
 ### advertcn
 <!-- advertcn:START -->
