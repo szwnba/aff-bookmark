@@ -7,6 +7,7 @@
 
 ### voa
 <!-- voa:START -->
+-  19 [受欧盟之邀前去会面，中国维权律师竟遭当局逮捕，欧盟要求立即放人](https://www.voachinese.com/a/eu-seriously-concerned-about-arrest-of-chinese-rights-activists-20230419/7056821.html)
 -  19 [在马克龙台海论后，台湾感谢七国集团重申对台支持](https://www.voachinese.com/a/taiwan-thanks-g7-for-support-following-macron-comments-20230419/7056957.html)
 -  19 [实验室安全堪忧，野生动物交易不绝：下一场全球疫情还可能来自中国？](https://www.voachinese.com/a/could-china-start-another-global-pandemic-20230419/7056666.html)
 -  19 [美国和英国对真主党融资实施制裁](https://www.voachinese.com/a/us-uk-enact-sanctions-for-hezbollah-financing-20230419/7056816.html)
@@ -15,8 +16,7 @@
 -  19 [拜登总统夫妇公布纳税申报表 去年收入近58万美元](https://www.voachinese.com/a/the-widens-release-tax-returns-20230419/7056747.html)
 -  19 [海外警察站屡屡受挫后 中国公安部长约见国际刑警组织秘书长](https://www.voachinese.com/a/china-police-chief-meets-interpol-chief-amid-overseas-police-setback-20230419/7056725.html)
 -  19 [美国称正与伙伴国分享信息 共同打击中国海外警察站与跨国镇压](https://www.voachinese.com/a/us-international-partnership-chinese-overseas-police-station-20230419/7056715.html)
--  19 [五角大楼官员示警中国对台威胁，众院美国与中共战略竞争委员会将举行台海冲突兵推](https://www.voachinese.com/a/us-house-china-committee-taiwan-tabletop-exercise-20230418/7056628.html)
--  19 [在华盛顿对美大学生演说，台湾民众党主席柯文哲：维持现状是不得已的选择，两岸应重启对话](https://www.voachinese.com/a/chairman-ko-of-taiwan-peoples-party-speaks-to-students-in-washington-on-cross-strait-policy-positions-20230418/7056587.html)<!-- voa:END -->
+-  19 [五角大楼官员示警中国对台威胁，众院美国与中共战略竞争委员会将举行台海冲突兵推](https://www.voachinese.com/a/us-house-china-committee-taiwan-tabletop-exercise-20230418/7056628.html)<!-- voa:END -->
 
 ### dw
 <!-- dw:START -->
