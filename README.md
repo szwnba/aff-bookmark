@@ -3,8 +3,9 @@
 
 ### afflift
 <!-- afflift:START -->
--  18 [if i have a balance on propllerads 40$ and have account cpa build how to use it to generate revenue around 3$ per day ?](https://afflift.com/f/threads/if-i-have-a-balance-on-propllerads-40-and-have-account-cpa-build-how-to-use-it-to-generate-revenue-around-3-per-day.10769/)
--  18 [Unlocking Profit Potential with COD Offers 🚀💰](https://afflift.com/f/threads/unlocking-profit-potential-with-cod-offers-%F0%9F%9A%80%F0%9F%92%B0.10673/)
+-  19 [if i have a balance on propllerads 40$ and have account cpa build how to use it to generate revenue around 3$ per day ?](https://afflift.com/f/threads/if-i-have-a-balance-on-propllerads-40-and-have-account-cpa-build-how-to-use-it-to-generate-revenue-around-3-per-day.10769/)
+-  19 [Unlocking Profit Potential with COD Offers 🚀💰](https://afflift.com/f/threads/unlocking-profit-potential-with-cod-offers-%F0%9F%9A%80%F0%9F%92%B0.10673/)
+-  18 [How to “Piggyback” 🐷 Your Postback URL](https://afflift.com/f/threads/how-to-%E2%80%9Cpiggyback%E2%80%9D-%F0%9F%90%B7-your-postback-url.9986/)
 -  18 [Best native ad network as a publisher?](https://afflift.com/f/threads/best-native-ad-network-as-a-publisher.10533/)
 -  18 [Step 10 - Analyzing Your PopAds Campaigns using BeMob](https://afflift.com/f/threads/step-10-analyzing-your-popads-campaigns-using-bemob.2947/)
 -  18 [Block Crawlers From Accessing Your Landing Page](https://afflift.com/f/threads/block-crawlers-from-accessing-your-landing-page.10761/)
@@ -21,8 +22,7 @@
 -  18 [I need a landing page that convert](https://afflift.com/f/threads/i-need-a-landing-page-that-convert.10754/)
 -  18 [Hi From Belgium Bruxelles.](https://afflift.com/f/threads/hi-from-belgium-bruxelles.10765/)
 -  18 [Intercourse Follow Along.](https://afflift.com/f/threads/intercourse-follow-along.10764/)
--  18 [April PropellerAds Promo Codes 2023](https://afflift.com/f/threads/april-propellerads-promo-codes-2023.10657/)
--  18 [Smart Surveys from ZeyDoo](https://afflift.com/f/threads/smart-surveys-from-zeydoo.10505/)<!-- afflift:END -->
+-  18 [April PropellerAds Promo Codes 2023](https://afflift.com/f/threads/april-propellerads-promo-codes-2023.10657/)<!-- afflift:END -->
 
 ### 无忧分享
 <!-- ruyo:START -->
